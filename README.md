@@ -5,7 +5,7 @@ The Preliminary Design report is available [here](https://drive.google.com/file/
 The Critical Design report is available [here](https://drive.google.com/file/d/1BMcQ285IUscpAYH66VHMYqh2ifiBRfOw/view?usp=sharing)<br>
 The Design and Development report can be viewed [here](https://drive.google.com/file/d/12rdD1S4PJTSaEiEJUxnZFG0SkwkgYTT-/view?usp=sharing) <br>
 
-<img src="/media/drone ground.jpeg" width="40%" height="40%"/> <img  src="/media/drone ground.jpeg" width="40%" height="40%"/><br>
+<img src="/media/drone air.jpeg" width="40%" height="40%"/> <img  src="/media/drone ground.jpeg" width="40%" height="40%"/><br>
 <br>
 
 
